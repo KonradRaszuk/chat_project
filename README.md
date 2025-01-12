@@ -1,5 +1,12 @@
 # Dokumentacja aplikacji czatu typu Single Page Application (SPA)
 
+## Studenci biorący udział w projekcie:
+- **Konrad Raszuk** | nr albumu: 159825
+- **Wojciech Kusek** | nr albumu: 159861
+- **Kuba Bienia** | nr albumu: 159828
+
+---
+
 ## Opis projektu
 Aplikacja jest czatem internetowym typu Single Page Application (SPA), który umożliwia komunikację w czasie rzeczywistym między dwoma użytkownikami. Technologia opiera się na **React** z **TypeScript** oraz **Vite** (frontend) i **Node.js** z WebSocketami zaimplementowanymi przy użyciu biblioteki **socket.io** (backend).
 
